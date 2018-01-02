@@ -30,6 +30,7 @@
 
 ## Install-Once Adons
 
+ * [Dashlane](https://dashlane.com/) - Password Manager
  * [LastPass](https://lastpass.com/) - Password Manager
  * [Meldium](https://www.meldium.com/) -  Team Password Manager, Cloud Identity &amp; Access Management
 
@@ -39,7 +40,7 @@
  * [PHP](http://php.net/manual/en/index.php)
  * [MySQL](http://dev.mysql.com/doc/), [MariaDB](https://mariadb.com/kb/en/mariadb/documentation/), [SQLite](https://www.sqlite.org/docs.html)
  * [Smarty](http://www.smarty.net/docs/en/), [Twig](http://twig.sensiolabs.org/documentation), [Blade](https://laravel.com/docs/5.1/blade)
- * [Laravel](https://laravel.com/docs/5.2), [Symfony](http://symfony.com/doc/current/index.html), [Zend Framework](http://framework.zend.com/manual/current/en/index.html) [CodeIgniter](http://www.codeigniter.com/user_guide/)
+ * [Laravel](https://laravel.com/docs/5.5), [Symfony](http://symfony.com/doc/current/index.html), [Zend Framework](http://framework.zend.com/manual/current/en/index.html) [CodeIgniter](http://www.codeigniter.com/user_guide/)
  * [Drupal](https://www.drupal.org/documentation), [WordPress](https://codex.wordpress.org/)
 
 
